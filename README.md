@@ -1,6 +1,6 @@
 # Careers Website
 
-A careers website modelled on Jovian's, built with **Flask** and a **MySQL** database. Visitors can browse open jobs, read a job's details and apply online. Built while following Jovian's "Build a Python Web App" course, and hosted on Replit.
+A careers website modelled on Jovian's, built with **Flask** and a **MySQL** database. Visitors can browse open jobs, read a job's details and apply online. 
 
 ## Features
 
